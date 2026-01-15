@@ -8,5 +8,5 @@
 # 𝓬𝓸𝓷𝓽𝓪𝓬𝓽
 
 * **Discord:** [mitro68]
-* **LinkedIn:** [[link_profil_linkedin](https://www.linkedin.com/in/moană-ștefănuț-cornel-154229324/)]
-* **Location:** Craiova / Balș, Romania
+* **LinkedIn:** [https://www.linkedin.com/in/moană-ștefănuț-cornel-154229324/]
+
