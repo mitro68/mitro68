@@ -10,7 +10,7 @@
 * **LinkedIn:** [Here](https://www.linkedin.com/in/moană-ștefănuț-cornel-154229324/)
 
 ### Tech Stack
-![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+* ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![react native](https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
