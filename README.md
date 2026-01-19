@@ -18,3 +18,4 @@
 ![c++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
