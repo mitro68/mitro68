@@ -5,7 +5,6 @@
   
 ## Contact
 
-* **Discord:** mitro68
 * **LinkedIn:** [Here](https://www.linkedin.com/in/moană-ștefănuț-cornel-154229324/)
 
 ## Tech Stack
